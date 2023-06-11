@@ -165,7 +165,7 @@ end
 
 ### Large image
 
-![Branching](images/weakconsistency.png)
+![WeakConsistency](/assets/images/weakconsistency.png?raw=true "Weak Consistency")
 
 
 ### Definition lists can be used with HTML syntax.
