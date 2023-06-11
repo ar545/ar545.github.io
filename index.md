@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###### [ [Ar545@github](http://github.com/Ar545) ] . [ lz527@cornell.edu ] . [ (607) ] . [ [Bellveue, WA <- Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ]
+###### [ [Ar545@github](http://github.com/Ar545) ] . [ lz527@cornell.edu ] . [ (607) ] . [ [Bellveue, WA](https://en.wikipedia.org/wiki/Bellevue,_Washington) <- [Ithaca, NY](https://en.wikipedia.org/wiki/Ithaca,_New_York) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
 
 
 Education
