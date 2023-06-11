@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-Leo Litian Zhao
-======
-
-#### Incoming Software Engineer
 ###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ] . [ [Bellveue, WA <- Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ]
 
 
