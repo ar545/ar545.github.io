@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ] . [ [Bellveue, WA <- Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ]
+###### [ [Ar545@github](http://github.com/Ar545) ] . [ lz527@cornell.edu ] . [ (607) ] . [ [Bellveue, WA <- Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ]
 
 
 Education
 ---------
 
 **Bachelor of Arts, Cornell University** (Aug 2019 - May 2023, Ithaca, NY)
-- Magna Cum Laude Honors in Computer Science
-- Magna Cum Laude Honors in Chemistry
+- Magna Cum Laude Honors in **Computer Science**, [Bowers CIS College](https://github.coecis.cornell.edu/lz527)
+- Magna Cum Laude Honors in **Chemistry**, College of Arts & Sciences
 - GPA: 4.0/4
 
 Experience
