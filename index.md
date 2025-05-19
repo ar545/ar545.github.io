@@ -1,37 +1,27 @@
 ---
 layout: default
 ---
-###### [ [Ar545@github](http://github.com/Ar545) ] . [ lz527@cornell.edu ] . [ (607) ] . [ [Bellveue, WA](https://en.wikipedia.org/wiki/Bellevue,_Washington) <- [Ithaca, NY](https://en.wikipedia.org/wiki/Ithaca,_New_York) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
+###### [ [ar545@github](http://github.com/ar545) ] . [ [WA](https://en.wikipedia.org/wiki/Bellevue,_Washington) <- [NY](https://en.wikipedia.org/wiki/Ithaca,_New_York) ] . [ [Linkedin](https://www.linkedin.com/in/leo-z/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
 
 
 Education
 ---------
 
-**Bachelor of Arts, Cornell University** (Aug 2019 - May 2023, Ithaca, NY)
-- Magna Cum Laude Honors in **Computer Science**, [Bowers CIS College](https://github.coecis.cornell.edu/lz527)
-- Magna Cum Laude Honors in **Chemistry**, College of Arts & Sciences
-- GPA: 4.0/4
+**Bachelor's, Cornell University** (2019 - 2023, Ithaca, NY)
+- Magna Cum Laude Honors in **Chemistry** & **Computer Science**
 
 Experience
 ---------
-**Software Engineer, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (Present, June 2023, New York, NY)
+**Software Engineer, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (2023 - Present, New York, NY)
+- Platform Infrastructure Engineering (PIE) Group
 
-- FactSet Cloud, Platform Infrastructure Engineering (PIE) Business Group
-
-**Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (June - Aug 2022, New York, NY)  
-
-- Architect & build developer tools[ ](https://youtu.be/0f71IFCYiqE)that powers feature & permission control, QA testing impersonation, & persona API tokens generator
-- Integrate backend services and client-side cache with Apollo GraphQL, write unit & e2e tests with Jest, deploy with CircleCI & We8K
-- Design & develop TS React components to improve consumer experience on members.wework.com, serving 200,000+ active users
-- Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
+**Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (2022, New York, NY)  
+- Member Web Team
 
 **Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Ithaca, NY)
+- CS 2800, CS 3110, CS 4410
 
-- CS 2800 Discrete Structures (2022)
-- CS 3110 Data Structures and Functional Programming (2023)
-
-**Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (Ithaca, NY)
-
+**Research Assistant, Cornell University** (Ithaca, NY)
 - DPDK provider support on libfabric interface. (Dr. Weijia Song, Lorenzo Rosa, Prof. Birman, 2023)
 - Deterministic game physics simulations (Prof. Walker White, 2022)
 - Ring polymer molecular dynamics simulations (Prof. Nandini Ananth, 2021)
